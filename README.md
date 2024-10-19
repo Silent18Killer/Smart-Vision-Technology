@@ -3,12 +3,31 @@
 <p>This repository presents a comprehensive Python script designed to automate the processes of expiry date verification and fresh product identification using image analysis. It leverages the capabilities of OpenCV for image processing, Tesseract OCR for text extraction, and advanced techniques for date and color analysis to determine if a product is expired or fresh.</p>
 </br>
 
+## How to use ?
+This code is only valid for VS Code and PyCharm.
+
+The code has two parts: one for expiry date verification and the other for fresh food detection.
+
+*   If you use the expiry date verification, click on the 'Run' button, and it will create an external window where you can upload an image of an expiry date. The code will detect the expiry date from the text, print the value, and indicate whether the item has expired or not.
+
+*   If you use the fresh food detection, running the code will create an external window where you can upload an image of either fresh or rotten food. The code will detect if the food is fresh or rotten and show the percentage of how much it is rotten.
+</br>
+
 ## Key Features
 * **Image Processing:** Employs OpenCV to preprocess images, enhance contrast, and extract relevant features for analysis.
 * **Text Extraction:** Utilizes Tesseract OCR to accurately extract text from images, including expiry dates and product information.
 * **Date Verification:** Implements robust algorithms to parse and validate extracted expiry dates, ensuring accuracy and reliability.
 * **Freshness Assessment:** Analyzes image features, such as color and texture, to assess the freshness of products.
 * **User-Friendly Interface:** Provides a simple and intuitive interface for users to select images and view the results.
+</br>
+
+## Project Preview
+<p>OPTION 1 : For Expiry Date Verification </p>
+<p><img src="Trained images/expiry-1.png" alt="expiry-1" width="48%"/>
+<img src="Trained images/expiry-2.png" alt="expiry-2" width="48%"/></p>
+<p>OPTION 2 : For Fresh Produce Inspection </p>
+<p><img src="Trained images/fruit-1.png" alt="fruit-1" width="48%"/>
+<img src="Trained images/fruit-2.png" alt="fruit-2" width="48%" /></p>
 </br>
 
 <h2>Explanation PPT</h2>
