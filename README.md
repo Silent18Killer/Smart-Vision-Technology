@@ -1,5 +1,15 @@
 # Flipkart-Grid-6.0
 <h2>Introduction</h2>
+<p>This repository presents a comprehensive Python script designed to automate the processes of expiry date verification and fresh product identification using image analysis. It leverages the capabilities of OpenCV for image processing, Tesseract OCR for text extraction, and advanced techniques for date and color analysis to determine if a product is expired or fresh.</p>
+</br>
+
+## Key Features
+* **Image Processing:** Employs OpenCV to preprocess images, enhance contrast, and extract relevant features for analysis.
+* **Text Extraction:** Utilizes Tesseract OCR to accurately extract text from images, including expiry dates and product information.
+* **Date Verification:** Implements robust algorithms to parse and validate extracted expiry dates, ensuring accuracy and reliability.
+* **Freshness Assessment:** Analyzes image features, such as color and texture, to assess the freshness of products.
+* **User-Friendly Interface:** Provides a simple and intuitive interface for users to select images and view the results.
+</br>
 
 <h2>Explanation PPT</h2>
 <p>Here is the link to the explanation ppt. <a href="">Click here</a></p>
@@ -9,7 +19,7 @@
 <p>Here is the link to the video solution. <a href="">Click here</a></p>
 </br>
 
-<h2>Tesseract OCR</h2>
+<h2>Setting up Tesseract OCR</h2>
 
 To download and set up Tesseract OCR, follow these steps:
 
@@ -84,6 +94,7 @@ You can add the Tesseract folder to your system's PATH environment variable so t
 
 After this step, you will no longer need to explicitly define the path to the Tesseract executable in your Python code.
 </br>
+</br>
 
 <h2>Installation</h2>
 For expiration_date_verification.py ( to verify the expiry date of a packaged item )
@@ -123,6 +134,10 @@ For example, pip install opencv-python, pip install numpy]
   python fresh_produce_inspection.py
 ```
 </br>
+
+## How to use the application
+
+
 
 <h2>License</h2>
 <p>This project is released under the MIT License. See the <a href="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/LICENSE">LICENSE</a> file for more information.</p>
