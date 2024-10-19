@@ -31,7 +31,7 @@ The code has two parts: one for expiry date verification and the other for fresh
 </br>
 
 <h2>Explanation PPT</h2>
-<p>Here is the link to the explanation ppt. <a href="">Click here</a></p>
+<p>Here is the link to the explanation ppt. <a href="https://github.com/Silent18Killer/Smart-Vision-Technology/tree/main/ppt">Click here</a></p>
 </br>
 
 <h2>Video Solution</h2>
