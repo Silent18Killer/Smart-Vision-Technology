@@ -35,7 +35,7 @@ The code has two parts: one for expiry date verification and the other for fresh
 </br>
 
 <h2>Video Solution</h2>
-<p>Here is the link to the video solution. <a href="">Click here</a></p>
+<p>Here is the link to the video solution. <a href="https://github.com/Silent18Killer/Smart-Vision-Technology/tree/main/video_explanation">Click here</a></p>
 </br>
 
 <h2>Setting up Tesseract OCR</h2>
