@@ -170,7 +170,7 @@ For example, pip install opencv-python, pip install numpy]
 
 <h2>Developers</h2>
 <ul>
-  <li><a href="https://github.com/Silent18Killer">Silent18Killer</a></li>
-  <li><a href="https://github.com/deepcodess">deepcodess</a></li>
-  <li><a href="https://github.com/RanitaTripathy">Tripathy-ranita</a></li>
+  <li><a href="https://github.com/Silent18Killer">Kaustabh Shit</a></li>
+  <li><a href="https://github.com/deepcodess">Deep Saha</a></li>
+  <li><a href="https://github.com/RanitaTripathy">Ranita Tripathy</a></li>
 </ul>
